@@ -1,0 +1,5 @@
+selenium
+plotly
+meteostat
+pandas
+panel
